@@ -51,3 +51,5 @@ else:
     else:
         print(f'Akkor az üzeneted: {narancs}')
 
+#kys
+
